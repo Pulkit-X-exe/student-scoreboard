@@ -8,7 +8,7 @@ function App () {
 
     const [students, setStudents] = useState([
         { name: "Pulkit", score: 80 },
-        { name: "Aman", score: 30 },
+        { name: "Shanku", score: 30 },
         { name: "Priya", score: 20 }
     ]);
 
